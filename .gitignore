@@ -1,0 +1,5 @@
+# pixi environments
+.pixi/*
+!.pixi/config.toml
+
+##can add something to hide .pixi file in gitignore

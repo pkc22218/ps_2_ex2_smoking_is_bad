@@ -13,6 +13,7 @@ jupyterlab = "*"
 ipykernel = "*"
 pre-commit = "*"
 nbstripout = "*"
+polars = ">=2.1.0,<3"
 
 [environments]
 smoke = []
